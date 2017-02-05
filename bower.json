@@ -1,0 +1,24 @@
+{
+  "name": "modulars",
+  "homepage": "https://github.com/cssberries/modulars",
+  "authors": [
+    "Belov Yevgeniy"
+  ],
+  "description": "List of modular values",
+  "main": "settings-modulars.less",
+  "keywords": [
+    "css",
+    "modular",
+    "OOCSS",
+    "ITCSS",
+    "BEM"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
